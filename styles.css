@@ -1,0 +1,76 @@
+body{
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* Header Starts */
+#header{
+    height: 60px;
+    font-size: 22px;
+    background-color: #43655A;
+}
+
+/* About Me Div Starts */
+#about{
+    border: 2px solid #DADDE2;
+    background-color:#DADDE2;
+}
+
+#about h2{
+    text-align: center;
+    color: #43655A;
+    text-transform: uppercase;
+    padding: 1%;
+    margin-left: 35%;
+}
+
+#about p{
+    font-size: 18px;
+    color: #43655A;
+    font-weight: bold;
+    padding: 0% 6%;
+    margin-left: 34%;
+}
+/* About Me Div Ends */
+#skills{
+    border: 2px solid #F0FCF8;
+    background-color: #F0FCF8;
+}
+
+#skills h2{
+    text-align: center;
+    color: #43655A;
+    text-transform: uppercase;
+    padding: 1%;
+}
+
+.skillicons{
+    width:60px;
+    height:60px;
+    border-radius: 7%;
+    margin: 0.2%;
+    margin-bottom: 1%;}
+
+#sociallinks{
+        border: 2px solid #F0FCF8;
+        background-color: #F0FCF8;
+    }
+#skills h2{
+        text-align: center;
+        color: #43655A;
+        text-transform: uppercase;
+        padding: 1%;
+    }
+    
+#styles{
+        
+    color: blue;
+    }  
+
+
+#profileimg img{
+    border: 0.5px solid #F0FCF8;
+    float: left;
+    height: 440;
+    margin-left: 10%;
+}
